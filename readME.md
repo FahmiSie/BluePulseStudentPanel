@@ -249,4 +249,4 @@ atau `http://bluepulse.example.com/` jika pakai virtual host.
 
 ---
 
-*BluePulse Student Panel — dibuat dengan ⚡*
+*BluePulse Student Panel
